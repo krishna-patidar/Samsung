@@ -1,0 +1,320 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+.nav1{
+	margin-left: 30px;
+
+    }
+.brand-logo{
+	font-family: "arial", Times, serif,bold;
+	
+   }
+#nav-mobile{
+	margin-right: 40px;
+	font-size: 40px;
+   }
+.sam{
+  position: relative;
+  bottom: 3px;
+   } 
+   .sams{font-weight: bold;}  
+
+.note9{
+   position: relative;
+   bottom: 400px;
+   left: 700px;
+   color: white;
+   font-family: arial;
+   font-size: 80px;
+   font-weight: bold;
+      } 
+.now{
+	color: white;
+	position: relative;
+	bottom: 420px;
+	left: 710px;
+	font-size: 20px;
+	font-weight: bold;
+} 
+.learn{
+	position: relative;
+	bottom: 350px;
+	color: white;
+    left: 710px;
+    font-size: 15px;
+    border-bottom: 2px solid white;
+    width: 95px;
+}     
+.btn1{
+	position: relative;
+	bottom: 425px;
+	left: 900px;
+	color: transparent;
+	border-radius: 100px;
+	height: 50px;
+	width: 150px;
+}
+.chat{
+	position: relative;
+	left: 1190px;
+	bottom: 30px;
+	position: fixed;
+	z-index: 10000;
+}
+.dis{
+	text-align: center;
+	position: relative;
+	bottom: 250px;
+	font-weight: bold;
+}
+.quard1{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    bottom: 220px;
+      }
+.quard2{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    bottom: 220px;
+      }
+.quard3{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    bottom: 220px;
+      }
+.gal{
+	position: relative;
+	bottom: 150px;
+}
+.s9{
+	position: relative;
+	bottom: 500px;
+    left: 100px;
+    font-weight: bold;	
+    font-size: 90px;
+}
+.sun{
+	position: relative;
+	bottom: 500px;
+	left: 100px;
+}
+.btn2{
+	position: relative;
+	bottom: 425px;
+	left: 300px;
+	color: transparent;
+	border-radius: 100px;
+	height: 50px;
+	width: 150px;
+}
+.btn3{
+	position: relative;
+	bottom: 425px;
+	right: 50px;
+	color: transparent;
+	border-radius: 100px;
+	height: 50px;
+	width: 150px;
+}
+.two{
+	height: 620px;
+	position: relative;
+	bottom: 399px;
+}
+.tv{
+	position: relative;
+	bottom: 500px;
+    left: 900px;
+    font-weight: bold;	
+    font-size: 70px;
+}
+.see{
+	position: relative;
+	bottom: 500px;
+	left: 900px;
+}
+.btn4{
+	position: relative;
+	bottom: 425px;
+	left: 900px;
+	color: transparent;
+	border-radius: 100px;
+	height: 50px;
+	width: 150px;
+}
+.btn5{
+	position: relative;
+	bottom: 425px;
+	left: 950px;
+	color: transparent;
+	border-radius: 100px;
+	height: 50px;
+	width: 150px;
+}
+.new{
+	position: relative;
+	bottom: 419px;
+	left: 600px;
+}
+.dig{
+	position: relative;
+	bottom: 900px;
+    left: 50px;
+    font-weight: bold;	
+    font-size: 50px;
+}
+.run{
+	position: relative;
+	bottom: 900px;
+	left: 50px;
+}
+.btn6{
+	position: relative;
+	bottom: 825px;
+	left: 100px;
+	color: transparent;
+	border-radius: 100px;
+	height: 50px;
+	width: 150px;
+}
+.three{
+
+	height: 620px;
+	position: relative;
+	bottom: 630px;
+    
+}
+.tv1{
+	position: relative;
+	bottom: 500px;
+    left: 900px;
+    font-weight: bold;	
+    font-size: 60px;
+}
+.four{
+	height: 500px;
+	position: relative;
+	bottom: 650px;
+	overflow: hidden;
+}
+.stay{
+	position: relative;
+	top: 200px;
+	left: 900px;
+	color: black;
+}
+
+.fol{
+    position: relative;
+    height: 80px;
+    widows: 460px;
+    top: 200px;
+	left: 880px;
+    }
+.site{
+	position: relative;
+	left: 120px;
+}
+.sit1{
+	position: relative;
+	left: 120px;
+}
+.sit2{
+	position: relative;
+	left: 400px;
+	bottom: 250px;
+}
+.sit{
+	position: relative;
+	bottom: 520px;
+	left: 630px;
+
+}
+.sit3{
+	position: relative;
+	left: 630px;
+	bottom: 510px;
+}
+.copy{
+	position: relative;
+	left: 180px;
+	bottom: 360px;
+	font-size: 15px;
+}
+.five{
+	position: relative;
+	height: 300px;
+	bottom: 500px;
+}
+.acc{
+	position: relative;
+	bottom: 780px;
+	left: 100px;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+.acc1{
+	position: relative;
+	bottom: 810px;
+	left: 300px;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+.acc2{
+	position: relative;
+	bottom: 839px;
+	left: 400px;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+.acc3{
+	position: relative;
+	bottom: 869px;
+	left: 500px;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+.ind{
+     position: relative;
+     bottom: 900px;
+     left: 1100px;
+    }
+.hin{
+	position: relative;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	bottom: 930px;
+	left: 1130px;
+}
+.sams{
+	position: relative;
+	font-size: 15px;
+	bottom: 860px;
+	color: white;
+	left: 100px;
+}
+.sams1{
+	position: relative;
+	font-size: 15px;
+	bottom: 860px;
+	color: white;
+	left: 100px;
+}
+.sams2{
+	position: relative;
+	font-size: 15px;
+	bottom: 800px;
+	color: white;
+	left: 100px;
+}
+
